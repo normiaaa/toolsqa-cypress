@@ -1,0 +1,15 @@
+{
+  "name": "toolsqa-cypress",
+  "version": "1.0.0",
+  "description": "Cypress automation",
+  "main": "index.js",
+  "repository": "git@github.com:normiaaa/toolsqa-cypress.git",
+  "author": "Normia",
+  "license": "MIT",
+  "scripts": {
+    "cypress:open": "./node_modules/.bin/cypress open"
+  },
+  "dependencies": {
+    "cypress": "^5.5.0"
+  }
+}
